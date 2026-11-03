@@ -1,0 +1,77 @@
+VESC Dash S3 — лицензия на использование прошивки
+Copyright (c) 2026 xZeNice. Все права защищены.
+
+1. Предмет. В этом репозитории распространяются только скомпилированные файлы
+   прошивки (.bin), изображения и документация (далее — «Прошивка»). Исходный
+   код не публикуется и не предоставляется.
+
+2. Разрешено бесплатно скачивать Прошивку и устанавливать её на собственные
+   устройства для личного некоммерческого использования.
+
+3. Без письменного разрешения автора запрещено:
+   а) продавать Прошивку, устройства с установленной Прошивкой или услуги по её
+      установке, а также использовать её в иных коммерческих целях;
+   б) распространять файлы Прошивки или их части через другие ресурсы —
+      делиться можно ссылкой на этот репозиторий;
+   в) изменять, декомпилировать, дизассемблировать Прошивку и извлекать из неё
+      ресурсы, кроме случаев, прямо разрешённых применимым законом;
+   г) удалять или изменять сведения об авторе.
+
+4. Отказ от гарантий. Прошивка предоставляется «как есть», без каких-либо
+   гарантий. Она управляет параметрами силовой электроники; лимиты,
+   трекшн-контроль и блокировки — вспомогательные функции, а не системы
+   безопасности. Вы используете Прошивку на свой риск и сами отвечаете за
+   настройку и безопасность своего транспортного средства.
+
+5. Ограничение ответственности. Автор не несёт ответственности за любой ущерб,
+   включая повреждение оборудования, травмы и потерю данных, возникший в
+   результате использования или невозможности использования Прошивки.
+
+6. При нарушении этих условий право на использование Прошивки прекращается
+   автоматически.
+
+7. Сторонние компоненты, входящие в Прошивку (в том числе ESP-IDF и ядро
+   Arduino для ESP32, LVGL, NimBLE-Arduino, arduinoWebSockets, шрифт Montserrat,
+   значки Font Awesome Free), распространяются на условиях своих лицензий и
+   принадлежат их авторам.
+
+Связь с автором: Telegram @doqix (https://t.me/doqix)
+
+-------------------------------------------------------------------------------
+
+VESC Dash S3 — Firmware License
+Copyright (c) 2026 xZeNice. All rights reserved.
+
+1. This repository distributes compiled firmware files (.bin), images and
+   documentation only (the "Firmware"). Source code is not published or
+   provided.
+
+2. You may download the Firmware free of charge and install it on your own
+   devices for personal, non-commercial use.
+
+3. Without the author's written permission you may not:
+   a) sell the Firmware, devices with the Firmware installed, or installation
+      services, or otherwise use the Firmware commercially;
+   b) redistribute the Firmware files or any part of them through other
+      channels — share a link to this repository instead;
+   c) modify, decompile or disassemble the Firmware or extract its assets,
+      except where applicable law expressly permits it;
+   d) remove or alter authorship notices.
+
+4. The Firmware is provided "AS IS", without warranty of any kind. It controls
+   power-electronics settings; limits, traction control and locks are aids, not
+   safety systems. You use the Firmware at your own risk and are solely
+   responsible for configuring and safely operating your vehicle.
+
+5. In no event shall the author be liable for any damages, including hardware
+   damage, injury or data loss, arising from the use of or inability to use the
+   Firmware.
+
+6. Your rights under this license terminate automatically if you breach it.
+
+7. Third-party components included in the Firmware (including ESP-IDF and the
+   Arduino core for ESP32, LVGL, NimBLE-Arduino, arduinoWebSockets, the
+   Montserrat font and Font Awesome Free icons) are provided under their own
+   licenses and belong to their respective authors.
+
+Contact: Telegram @doqix (https://t.me/doqix)
